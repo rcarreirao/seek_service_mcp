@@ -1,0 +1,14 @@
+{
+    
+    "window.title": "seek_service: ${rootName}${separator}${activeEditorShort}",
+    "workbench.colorCustomizations": {
+      "tab.activeBorder": "#ff0000",
+      "tab.unfocusedActiveBorder": "#ffffff",
+      "tab.activeBackground": "#8b3411b0",
+      "titleBar.activeBackground": "#6b372a",
+      "titleBar.activeForeground1": "#cdd6f4",
+      "activityBar.background": "#441f0a",
+      "statusBar.background": "#da7d48"
+  },
+  "go.testTags": "integration"
+}

@@ -1,0 +1,4 @@
+[submodule "documents"]
+	path = documents
+	url = file:///var/www/html/obsidian
+	branch = seek_service_mcp
